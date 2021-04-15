@@ -1,2 +1,2 @@
-# c-execises
+# c-exercises
 Exercises and challenges with C
